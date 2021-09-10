@@ -1,6 +1,10 @@
 
 body {
    font-family: Arial, Helvetica, sans-serif;
-   background-color: bisque;
+   background-color: olivedrab;
    text-align: center;
+}
+
+a:link {
+    color: wheat;
 }
