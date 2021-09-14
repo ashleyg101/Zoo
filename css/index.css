@@ -5,6 +5,14 @@ body {
    text-align: center;
 }
 
+h1 {
+    color: wheat;
+}
+
 a:link {
     color: wheat;
+}
+
+img {
+    padding-top: 40px;
 }
