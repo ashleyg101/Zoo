@@ -8,3 +8,13 @@ body {
 h1 {
     color: wheat;
 }
+
+a {
+    color: bisque;
+}
+
+img {
+    width: 416px;
+    height: 221px;
+    margin-left: 30px;
+}
