@@ -1,0 +1,18 @@
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: olivedrab;
+   text-align: center;
+}
+
+h1 {
+    color: wheat;
+}
+
+a:link {
+    color: wheat;
+}
+
+img {
+    padding-top: 40px;
+}
