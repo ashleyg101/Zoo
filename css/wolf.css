@@ -1,5 +1,4 @@
 
-
 header {
     text-align: center;
 }
@@ -19,8 +18,8 @@ a {
 }
 
 img {
-    width: 350;
-    height: 277px;
+    width: 336px;
+    height: 281px;
     float: left;
     margin-left: 20px;
     margin-right: 25px;
@@ -35,5 +34,5 @@ p {
 ul {
     list-style-type: none;
     text-align: left;
-    padding-top: 10px;
+    padding-top: 25px;
 }
